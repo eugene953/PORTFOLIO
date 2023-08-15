@@ -99,7 +99,34 @@
     @media screen and (max-width: 480px) {
      .i{
         flex-direction: column;
-     }   
+     } 
+     .i-wrapper{
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height:100%;
+
+     } 
+     .desc{
+        display: none;
+     }
+     .i-bg{
+    height: 28vh;
+     } 
+
+     .i-img{
+        width: ;
+        height:28vh;
+        object-fit:cover;
+        position: absolute;
+     }
+     .i-title-item{
+       
+        font-size:15px;
+        font-weight: bold;
+    
+     }
         
     }
     

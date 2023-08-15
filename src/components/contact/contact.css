@@ -97,10 +97,8 @@ button{
         flex-wrap: wrap;
     }
     input{
-        width:35%;
-        height: 40px;
-        margin: 10px;
-        margin-left: 0px;
+       
+    
     }
     button{
         margin-top: 10px;
