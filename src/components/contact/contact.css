@@ -76,9 +76,17 @@ button{
 
 
 @media screen and (max-width: 480px) {
+.c{
+    height:180vh;
+    width:200px;
+    position: relative;
+    background-color: ;
+}
+   
     .c-wrapper{
        flex-direction: column;
        padding: 0px 50px;
+       height: 150vh;
     }   
     .c-title{
         font-size: 30px;
@@ -95,9 +103,10 @@ button{
         margin-top: 0px;
         display: flex;
         flex-wrap: wrap;
+        
     }
     input{
-       
+      width: ;
     
     }
     button{

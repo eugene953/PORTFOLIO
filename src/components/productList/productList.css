@@ -30,7 +30,7 @@
   @media screen and (max-width: 480px) {
     .pl {
       padding: 10px;
-      margin-top: 150px;
+      margin-top: 40px;
     }
   
     .pl-texts {
@@ -40,9 +40,6 @@
     .pl-desc {
       display: none;
     }
-    .pl-list{
-      margin-right: 30px;
-    }
-    
+
   }
   
