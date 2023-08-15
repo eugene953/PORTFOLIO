@@ -81,6 +81,7 @@ button{
     width:200px;
     position: relative;
     background-color: ;
+    
 }
    
     .c-wrapper{
@@ -93,22 +94,22 @@ button{
     }   
 
     .c-info-item{
-        margin: 20px 0px;
+        margin: ;
         width:100%;
+        font-size: 10px;
+        display:grid;
     }
     .c-desc{
         display: none;
     }
+
     form{
-        margin-top: 0px;
-        display: flex;
-        flex-wrap: wrap;
-        
+        width: 300px;
+        margin-left: 140px;
     }
-    input{
-      width: ;
+
     
-    }
+    
     button{
         margin-top: 10px;
     }

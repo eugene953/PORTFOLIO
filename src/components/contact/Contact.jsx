@@ -1,4 +1,3 @@
-
 import './contact.css';
 import phone from "../../img/phone.jpg";
 import email from "../../img/email.jpg";
@@ -63,8 +62,9 @@ className='c-icon'
     <div className='c-right'>
     <p className='c-desc'>
 <b>What's your story?</b>Get in touch. Always available for
-            freelancing if the right project comes along. me.
+            freelancing if the right project comes along. 
 </p>
+
 <form ref={formRef} onSubmit={handleSubmit}>
 <input type='text' placeholder='Name' name='user_name'/>
 <input type='text' placeholder='Subject' name='user_subject'/>
@@ -73,9 +73,10 @@ className='c-icon'
 <button>Submit</button>
 {done && "Thank you....."}
 </form>
+</div>
     </div>
     </div>
-    </div>
+    
   )
 }
 
