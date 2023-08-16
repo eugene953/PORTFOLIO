@@ -99,6 +99,7 @@
     @media screen and (max-width: 480px) {
      .i{
         flex-direction: column;
+        margin-top: 10px;
      } 
      .i-wrapper{
         padding: 10px;
